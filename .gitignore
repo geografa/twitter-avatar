@@ -1,2 +1,3 @@
 .DS_Store
 data/twitter_config.js
+node_modules
